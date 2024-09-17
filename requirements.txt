@@ -1,0 +1,13 @@
+transformers
+torch
+requests
+Pillow
+fastapi
+uvicorn
+streamlit
+python-multipart
+langchain
+langchain-groq
+python-dotenv
+paddleocr
+PaddlePaddle==2.5.1 
